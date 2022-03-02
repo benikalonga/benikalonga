@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @benikalonga
+- 👀 I’m interested in Software programming
+- 🌱 I’m currently learning Artificial Intelligence AI
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me on mail benikalonga@gmail.com 
